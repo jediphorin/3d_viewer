@@ -1,0 +1,9 @@
+/home/jediphorin/code/temp/github/C8_3DViewer_v1.0-1/build/CMakeFiles/3d_viewer.dir
+/home/jediphorin/code/temp/github/C8_3DViewer_v1.0-1/build/CMakeFiles/edit_cache.dir
+/home/jediphorin/code/temp/github/C8_3DViewer_v1.0-1/build/CMakeFiles/rebuild_cache.dir
+/home/jediphorin/code/temp/github/C8_3DViewer_v1.0-1/build/CMakeFiles/list_install_components.dir
+/home/jediphorin/code/temp/github/C8_3DViewer_v1.0-1/build/CMakeFiles/install.dir
+/home/jediphorin/code/temp/github/C8_3DViewer_v1.0-1/build/CMakeFiles/install/local.dir
+/home/jediphorin/code/temp/github/C8_3DViewer_v1.0-1/build/CMakeFiles/install/strip.dir
+/home/jediphorin/code/temp/github/C8_3DViewer_v1.0-1/build/CMakeFiles/3d_viewer_autogen_timestamp_deps.dir
+/home/jediphorin/code/temp/github/C8_3DViewer_v1.0-1/build/CMakeFiles/3d_viewer_autogen.dir
