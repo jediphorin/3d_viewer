@@ -1,0 +1,20 @@
+{
+	"BUILD_DIR" : "/home/jediphorin/code/C8_3DViewer_v1.0-1/bin/3d_viewer_autogen",
+	"CMAKE_BINARY_DIR" : "/home/jediphorin/code/C8_3DViewer_v1.0-1/bin",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/jediphorin/code/C8_3DViewer_v1.0-1/bin",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/jediphorin/code/C8_3DViewer_v1.0-1/src",
+	"CMAKE_SOURCE_DIR" : "/home/jediphorin/code/C8_3DViewer_v1.0-1/src",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/jediphorin/code/C8_3DViewer_v1.0-1/bin/3d_viewer_autogen/include",
+	"INPUTS" : [ "/home/jediphorin/code/C8_3DViewer_v1.0-1/src/resources/icon.png" ],
+	"LOCK_FILE" : "/home/jediphorin/code/C8_3DViewer_v1.0-1/bin/CMakeFiles/3d_viewer_autogen.dir/AutoRcc_resource_3YJK5W5UP7_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resource" ],
+	"OUTPUT_CHECKSUM" : "3YJK5W5UP7",
+	"OUTPUT_NAME" : "qrc_resource.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt6/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/jediphorin/code/C8_3DViewer_v1.0-1/bin/CMakeFiles/3d_viewer_autogen.dir/AutoRcc_resource_3YJK5W5UP7_Used.txt",
+	"SOURCE" : "/home/jediphorin/code/C8_3DViewer_v1.0-1/src/resources/resource.qrc",
+	"VERBOSITY" : 0
+}
